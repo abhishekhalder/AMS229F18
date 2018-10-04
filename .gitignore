@@ -1,5 +1,6 @@
 # Compiled source #
 ###################
+*checkpoint.ipynb
 *.ipynb_checkpoints
 *.com
 *.class
